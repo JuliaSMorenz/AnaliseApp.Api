@@ -1,0 +1,13 @@
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\bin\Debug\net8.0\AnaliseApp.Infra.Data.deps.json
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\bin\Debug\net8.0\AnaliseApp.Infra.Data.dll
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\bin\Debug\net8.0\AnaliseApp.Infra.Data.pdb
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.sourcelink.json
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.dll
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\obj\Debug\net8.0\refint\AnaliseApp.Infra.Data.dll
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\obj\Debug\net8.0\AnaliseApp.Infra.Data.pdb
+C:\Users\julia\OneDrive\Documentos\Cursos\Coti\1-Hachathon\AnaliseApp\AnaliseApp.Infra.Data\obj\Debug\net8.0\ref\AnaliseApp.Infra.Data.dll
